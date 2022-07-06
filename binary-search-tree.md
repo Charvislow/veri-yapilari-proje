@@ -1,6 +1,6 @@
 # Binary Search Tree
 
-### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] -> Binary Search Tree Sort
+### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] -> Binary Search Tree
 
 1. *Root, ilk eleman  7 oldugu icin 7 secilir.*
 
