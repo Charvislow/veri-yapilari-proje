@@ -1,4 +1,6 @@
-[16,21,11,8,12,22] -> Merge Sort
+#Merge Sort
+
+###[16,21,11,8,12,22] -> Merge Sort
 
 1- Dizi tek eleman kalana kadar parcalanir:
   - **1.** [16,21,11] ve [8,12,22]
