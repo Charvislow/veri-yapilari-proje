@@ -2,11 +2,11 @@
 
 ### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] -> Binary Search Tree Sort
 
-1. *Root ilk eleman  7 oldugu icin 7 secilir.*
+1. *Root, ilk eleman  7 oldugu icin 7 secilir.*
 
                         7
                         
-2. 5, 7'den kucuk oldugu ici 7'nin soluna yazilir
+2. 5, 7'den kucuk oldugu icin 7'nin soluna yazilir
                         
                         7
                        /
